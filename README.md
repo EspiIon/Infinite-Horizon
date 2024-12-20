@@ -1,6 +1,7 @@
 # Infinite-Horizon
+###### Projet d'étude
 
-### Desciption
+### Description
 Infinite horizon est un jeu "plateforme" avec un niveau infini. Le but est d'aller le plus loin possible en survivant au ennemies.
 
 ### Pour jouer
