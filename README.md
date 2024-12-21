@@ -1,6 +1,7 @@
 # Infinite-Horizon
 ###### Projet d'étude
-
+Ce programme necessite d'installer Free Pascal au prealable.
+L'objectif de ce projet est de creer un jeu en utilisant la SDL avec Pascal
 ### Description
 Infinite horizon est un jeu "plateforme" avec un niveau infini. Le but est d'aller le plus loin possible en survivant au ennemies.
 
