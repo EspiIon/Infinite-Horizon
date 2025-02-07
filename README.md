@@ -1,4 +1,7 @@
+![icon](https://github.com/user-attachments/assets/3a905089-3411-4901-9322-903af39bb887)
+
 # Infinite-Horizon
+
 ###### Projet d'étude
 Ce programme necessite d'installer Free Pascal au prealable.
 L'objectif de ce projet est de creer un jeu en utilisant la SDL avec Pascal
